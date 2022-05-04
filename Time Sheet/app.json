@@ -1,0 +1,41 @@
+﻿{
+    "id":  "e3a02998-ada2-4758-a25b-c62f2efcb641",
+    "name":  "Time Sheet",
+    "publisher":  "KMD",
+    "version":  "1.0.0.5",
+    "brief":  "",
+    "description":  "",
+    "platform":  "1.0.0.0",
+    "application":  "19.0.0.0",
+    "runtime":  "8.0",
+    "logo":  "",
+    "url":  "",
+    "EULA":  "",
+    "privacyStatement":  "",
+    "help":  "",
+    "target":  "Extension",
+    "screenshots":  [
+
+                    ],
+    "dependencies":  [
+
+                     ],
+    "idRanges":  [
+                     {
+                         "from":  88100,
+                         "to":  88149
+                     }
+                 ],
+    "features":  [
+
+                 ],
+    "resourceExposurePolicy":  {
+
+                               },
+    "internalsVisibleTo":  [
+
+                           ],
+    "keyVaultUrls":  [
+
+                     ]
+}
